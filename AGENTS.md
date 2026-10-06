@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep shared site navigation, footer, and reusable section content in shared modules; give distinct, shareable content sections their own leaf routes so each can carry unique metadata.
